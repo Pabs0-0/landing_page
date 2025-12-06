@@ -78,7 +78,7 @@ header {
       rgba(198, 40, 40, 0.75),
       rgba(111, 21, 21, 0.85)
     ),
-    url("img/backk.png") center/cover no-repeat;
+    url("imagen/backk.png") center/cover no-repeat;
   color: #fff;
   text-align: center;
   min-height: 62vh;
